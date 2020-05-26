@@ -11,7 +11,7 @@ Xây dựng site bán giày với laravel Shoppingcart
 
 ### Installation ###
 
-* type `git clone https://github.com/duytrung1394/laravel-shopgiay.git projectname` to clone the repository 
+* type `git clone https://github.com/chanhpm-dev/laravel_ec.git projectname` to clone the repository 
 * type `cd projectname`
 * type `composer install`
 * copy *.env.example* to *.env*
